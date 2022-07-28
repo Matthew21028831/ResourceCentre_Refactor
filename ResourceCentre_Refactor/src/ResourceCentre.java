@@ -2,15 +2,10 @@ import java.util.ArrayList;
 
 public class ResourceCentre {
 
-
 	/**
 	 * 
 	 */
-	private static final int OPTION_RETURN = 4;
-	/**
-	 * 
-	 */
-	private static final int OPTION_LOAN = 3;
+	private static final int OPTION_VIEW = 1;
 	/**
 	 * 
 	 */
@@ -18,7 +13,11 @@ public class ResourceCentre {
 	/**
 	 * 
 	 */
-	private static final int OPTION_VIEW = 1;
+	private static final int OPTION_LOAN = 3;
+	/**
+	 * 
+	 */
+	private static final int OPTION_RETURN = 4;
 	/**
 	 * 
 	 */
